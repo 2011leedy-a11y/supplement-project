@@ -82,7 +82,7 @@ html, body, [class*="css"] {
 </style>
 """, unsafe_allow_html=True)
 
-ASSISTANT_ID = "asst_GPQisJt2CrwGLgKvNedIvwQV"
+ASSISTANT_ID = "asst_7CST1rzZqiLB1St0kjK7Sj8o"
 
 def remove_citations(text):
     text = re.sub(r'【\d+:\d+†[^】]*】', '', text)
